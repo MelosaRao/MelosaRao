@@ -7,7 +7,7 @@ I am a sophomore at Duke University majoring in Computer and Math. I have profie
 
 ## Projects
 ### Resume Builder Application - Technologies: React, JavaScript, HTML, and CSS
-- Live Preview: https://cv-builder-gilt-phi.vercel.app/ 
+- Live Preview: https://cv-builder-gilt-phi.vercel.app/           Source Code: https://github.com/MelosaRao/CVBuilder
 - Build a user-friendly application using React. Users can enter details, preview and download Resume as PDF. 
 ### Shopping Cart Application - Technologies: React, React Router, Tailwind CSS, Context API, Fetch API
 - Live Preview: https://shopping-cart-gold-eta.vercel.app/        Source Code:https://github.com/MelosaRao/ShoppingCart
