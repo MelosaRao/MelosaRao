@@ -1,9 +1,12 @@
 I am a sophomore at Duke University majoring in Computer and Math. I have profiency and exposure to technologies in the following areas:
-- Languages: Python, Java,C, JavaScript, HTML, CSS, SQL
-- Libraries: Pandas, Polars, NumPy, SciPy, Scrapy, Matplotlib, Seaborn, Scikit-Learn, TensorFlow, Keras, PyTorch
-- Web Frameworks: Django, React, Node, Express, Tailwind CSS, Bootstrap
-- Databases: MS SQL Server, SQLite, MySQL, PostgreSQL
-- Work In Progress: Angular, MongoDB
+Programing Languages: Python, JavaScript, TypeScript, Java, C, HTML5, CSS3, SQL 
+Web Frameworks/Libraries: React, Node.JS, NextJs, Express, Django, Tailwind CSS, Bootstrap, StreamLit, Scrapy
+Data Visualization: Matplotlib, Seaborn, Tableau 
+Databases: MS SQL Server, SQLite, MySQL, PostgreSQL, MongoDB, ChromaDB
+AI/ML Frameworks and Platforms: LangChain, LangGraph, LlamaIndex, Ollama, Hugging Face
+AI/ML Libraries: TensorFlow, Keras, PyTorch, Scikit-Learn, Pandas, Polars, NumPy, SciPy
+Software Tools: Git, REST APIs, and familiar with Jira, Confluence, Docker, Kubernetes, Hypervisor.
+
 
 ## Projects
 ### RAG Housing Assistant Chatbot:
