@@ -6,6 +6,13 @@ I am a sophomore at Duke University majoring in Computer and Math. I have profie
 - Work In Progress: Angular, MongoDB
 
 ## Projects
+### RAG Housing Assistant Chatbot:
+- Developed a context-aware RAG chatbot using LangChain, FAISS, and Hugging Face embeddings and Gradio UI to answer university housing queries from data scraped across 80+ websites.
+- Live Preview:	 https://huggingface.co/spaces/Melosa/UnivesityHousingAssistant
+- Source Code: https://huggingface.co/spaces/Melosa/UnivesityHousingAssistant/tree/main
+- Also implemented same chatbot using ChromaDB with StreamLit UI and embeddings via Google Generative AI. 
+- Source code and Demo Video: https://github.com/MelosaRao/HousingAssistant
+
 ### Resume Builder Application - Technologies: React, JavaScript, HTML, and CSS
 - Live Preview: https://cv-builder-gilt-phi.vercel.app/           Source Code: https://github.com/MelosaRao/CVBuilder
 - Build a user-friendly application using React. Users can enter details, preview and download Resume as PDF. 
@@ -23,9 +30,7 @@ I am a sophomore at Duke University majoring in Computer and Math. I have profie
 ### Petals to the Metal - Flower Classification (Image Dataset) on TPU 
 - Source Code: https://colab.research.google.com/drive/1OuTBJmeiC46HM1aGYG1sLqVg5uWCwRmh?usp=sharing
 - Using transfer learning and data augmentation, I built an ensemble model combining EfficientNetB7 with noisy student training and DenseNet201 outputs. F1 score: 0.957.
-### Titanic - Machine Learning from Disaster 
-- Source Code: https://colab.research.google.com/drive/1ttJVOfFGswRvgS4ENVplVr7Pi9UqDeh5?usp=sharing
-- Built a simple neural network to predict which passengers survived the Titanic shipwreck. 
+
 
 
 <!---
