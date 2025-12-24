@@ -1,4 +1,4 @@
-I am a sophomore at Duke University majoring in Computer and Math. I have profiency and exposure to technologies in the following areas:
+I am a junior at Duke University majoring in Computer and Math. I have profiency and exposure to technologies in the following areas:
 - Programing Languages: Python, JavaScript, TypeScript, Java, C, HTML5, CSS3, SQL 
 - Web Frameworks/Libraries: React, Node.JS, NextJs, Express, Django, Tailwind CSS, Bootstrap, StreamLit, Scrapy
 - Data Visualization: Matplotlib, Seaborn, Tableau 
